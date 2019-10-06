@@ -1,2 +1,3 @@
-# PrismHR-Sample-Documentation
- 
+![](images/prismhr-logo-small.png)
+
+#
