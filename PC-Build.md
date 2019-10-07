@@ -6,7 +6,7 @@ This is a guide on building your own PC for your own personal use. This type of 
 
 ## Purchasing Components
 
-Like an automobile, a PC has a variety of different components that all work together to ensure a PC operates seemlessly and smoothly. Each component has a specific function, and without each and every one of these components, the PC will not work, or will not work optimally. 
+Like an automobile, a PC has a variety of different components that all work together to ensure a PC operates seamlessly and smoothly. Each component has a specific function, and without each and every one of these components, the PC will not work, or will not work optimally. 
 
 ## PC Component Checklist
 
@@ -20,7 +20,7 @@ Like an automobile, a PC has a variety of different components that all work tog
 - [ ] Monitor
 - [ ] Keyboard
 - [ ] Mouse
-- [ ] Opical Drive (Optional)
+- [ ] Optical Drive (Optional)
 
 When purchasing PC components, we recommend websites such as [Amazon](https://www.amazon.com) or [NewEgg](https:www.newegg.com).
 
