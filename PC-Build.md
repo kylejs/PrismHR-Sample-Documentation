@@ -22,7 +22,7 @@ Like an automobile, a PC has a variety of different components that all work tog
 - [ ] Mouse
 - [ ] Optical Drive (Optional)
 
-When purchasing PC components, we recommend websites such as [Amazon](https://www.amazon.com) or [NewEgg](https:www.newegg.com).
+When purchasing PC components, we recommend websites such as [Amazon](https://www.amazon.com) or [NewEgg](https:www.newegg.com)
 
 # Getting Started
 
