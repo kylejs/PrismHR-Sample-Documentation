@@ -19,6 +19,7 @@
 - [ ] Power Supply
 - [ ] Graphics Card
 - [ ] Hard Drive
+- [ ] Monitor
 - [ ] Keyboard
 - [ ] Mouse
 - [ ] Opical Drive (Optional)
@@ -31,5 +32,23 @@
 
 ### The case is the piece of hardware that houses all of the other components that make up the PC. The case also helps with better airflow, and helps to minimize dust accumulation.
 
-1. Unbox your case and place it on a sturdy table
+1. Unbox your case and place it on a sturdy table.
 2. Remove the rear screws holding the two side panels from the case and carefully remove the two side panels. 
+3. Carefully lay the case on its right side, which will give you better access when installing your components.
+
+## <center> Installing the Motherboard </center>
+
+### The motherboard is the component to which all other components connect to, thus allowing communication between each component. There are many different types of motherboards, which are made for specific types of hardware.
+
+1. Remove the motherboard from its box and anti-static bag.
+2. Line up the motherboard with the pins attached on the case, and screw down each pins with the provided screws. 
+3. Ensure the back of the motherboard properly lines up with the I/O cutout on the back of the case.
+
+<br> 
+
+| PC Component  | Description |
+| ------------  | ----------- |
+| Case          | Houses all the components that make up a PC |
+| Motherboard   | Allows the connection of all components housed within the case |
+| CPU           | Carries the instruction set of the Operating System and programs, allowing all tasks to be completed |
+
