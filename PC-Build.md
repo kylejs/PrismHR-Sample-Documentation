@@ -4,8 +4,6 @@
 
 ### This is a guide on building your own PC for your own personal use. This type of task can at first seem daunting and challenging for beginners, but after following this guide, you'll be able to build your very on PC, and never have to pay a premium for a prebuilt computer ever again.
 
-<br>
-
 ## Purchasing Components
 
 ### Like an automobile, a PC has a variety of different components that all work together to ensure a PC operates seemlessly and smoothly. Each component has a specific function, and without each and every one of these components, the PC will not work, or will not work optimally. 
@@ -30,7 +28,7 @@
 
 ## <center> The Case </center>
 
-### The case is the piece of hardware that houses all of the other components that make up the PC. The case also helps with better airflow, and helps to minimize dust accumulation.
+The case is the piece of hardware that houses all of the other components that make up the PC. The case also helps with better airflow, and helps to minimize dust accumulation.
 
 1. Unbox your case and place it on a sturdy table.
 2. Remove the rear screws holding the two side panels from the case and carefully remove the two side panels. 
@@ -38,13 +36,11 @@
 
 ## <center> Installing the Motherboard </center>
 
-### The motherboard is the component to which all other components connect to, thus allowing communication between each component. There are many different types of motherboards, which are made for specific types of hardware.
+The motherboard is the component to which all other components connect to, thus allowing communication between each component. There are many different types of motherboards, which are made for specific types of hardware.
 
 1. Remove the motherboard from its box and anti-static bag.
 2. Line up the motherboard with the pins attached on the case, and screw down each pins with the provided screws. 
 3. Ensure the back of the motherboard properly lines up with the I/O cutout on the back of the case.
-
-<br> 
 
 | PC Component  | Description |
 | ------------  | ----------- |
