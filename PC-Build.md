@@ -23,3 +23,13 @@
 - [ ] Mouse
 - [ ] Opical Drive (Optional)
 
+### When purchasing PC components, we recommend websites such as [Amazon](https://www.amazon.com) or [NewEgg](https:www.newegg.com).
+
+# Getting Started
+
+## <center> The Case </center>
+
+### The case is the piece of hardware that houses all of the other components that make up the PC. The case also helps with better airflow, and helps to minimize dust accumulation.
+
+1. Unbox your case and place it on a sturdy table
+2. Remove the rear screws holding the two side panels from the case and carefully remove the two side panels. 
