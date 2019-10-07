@@ -51,4 +51,4 @@
 | Case          | Houses all the components that make up a PC |
 | Motherboard   | Allows the connection of all components housed within the case |
 | CPU           | Carries the instruction set of the Operating System and programs, allowing all tasks to be completed |
-
+| RAM (Memory)  | A type of volatile memory that can be read or written at almost the same amount of time, regardless of its location within the module |
