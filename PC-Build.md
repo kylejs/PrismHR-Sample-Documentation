@@ -42,7 +42,7 @@ The motherboard is the component to which all other components connect to, thus 
 2. Line up the motherboard with the pins attached on the case, and screw down each pins with the provided screws. 
 3. Ensure the back of the motherboard properly lines up with the I/O cutout on the back of the case.
 
-| PC Component  | Description |
+| Component  | Description |
 | ------------  | ----------- |
 | Case          | Houses all the components that make up a PC |
 | Motherboard   | Allows the connection of all components housed within the case |
